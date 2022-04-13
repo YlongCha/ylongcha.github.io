@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Make Jelly site have a GitBook look!
+프론트앤드 개발 / 1991년생 / 안양 / 키큼 / 곧결혼
 
 ## Demo
 
