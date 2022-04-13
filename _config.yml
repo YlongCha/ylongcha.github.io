@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            YlongCha GitBook
+longtitle:        YlongCha GitBook
 author:           HE Tao
-email:            sighingnow@gmail.com
+email:            ckdufhd@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  영롱차의 정리 블로그.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://ylongcha.github.io'
+baseurl:          '/ylongcha-gitbook'
 rss:              RSS
 
 toc:
